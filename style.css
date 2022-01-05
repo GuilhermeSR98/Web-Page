@@ -1,12 +1,21 @@
 body {
-    background: #CCCCCC;
+  background: #cccccc;
+}
+#banner {
+  width: 100%;
+}
+h1 {
+  text-align: center;
 }
 p {
   text-align: center;
 }
+#mission {
+  font-size: 20px;
+}
 strong {
-    color: rgb(179, 2, 2);
+  color: rgb(179, 2, 2);
 }
 em strong {
-    color: rgb(13, 31, 31);
+  color: rgb(190, 86, 0);
 }

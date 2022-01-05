@@ -13,9 +13,13 @@ p {
 #mission {
   font-size: 20px;
 }
+.itens {
+  font-style: italic;
+}
 strong {
   color: rgb(179, 2, 2);
 }
 em strong {
   color: rgb(190, 86, 0);
 }
+

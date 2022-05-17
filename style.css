@@ -4,6 +4,10 @@ body {
 #banner {
   width: 100%;
 }
+.principal {
+  background: #ffffff;
+  padding: 30px;
+}
 h1 {
   text-align: center;
 }
@@ -13,13 +17,29 @@ p {
 #mission {
   font-size: 20px;
 }
+.benefits {
+  background: #ffffff;
+  padding: 20px;
+}
+h2 {
+  text-align: center;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
 .itens {
   font-style: italic;
 }
+
 strong {
   color: rgb(179, 2, 2);
 }
 em strong {
   color: rgb(190, 86, 0);
 }
-
+.imageBenefits {
+  width: 50%;
+}

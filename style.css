@@ -1,28 +1,26 @@
 body {
   background: #cccccc;
 }
+.principalTitle {
+  padding: 20px;
+}
+.alignedText {
+  text-align: center;
+}
 #banner {
   width: 100%;
 }
 .principal {
-  background: #ffffff;
+  background: #cccccc;
   padding: 30px;
 }
-h1 {
-  text-align: center;
-}
-p {
-  text-align: center;
-}
 #mission {
+  text-align: center;
   font-size: 20px;
 }
 .benefits {
   background: #ffffff;
   padding: 20px;
-}
-h2 {
-  text-align: center;
 }
 ul {
   display: inline-block;

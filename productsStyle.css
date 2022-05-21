@@ -1,5 +1,6 @@
 body {
     background: #bbbbbb;
+    height: 100vh;
 }
 nav li {
     display: inline;
@@ -12,3 +13,4 @@ nav a {
     color: #000000;
     text-decoration: none;
 }
+
